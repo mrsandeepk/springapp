@@ -8,5 +8,6 @@
 </head>
 <body>
 Welcome Sandy.
+${content}
 </body>
 </html>
